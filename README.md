@@ -5,5 +5,4 @@ Topics:
 - [**<u>Assets access</u>**](https://github.com/rogerio-ushiro/flutter/tree/main/assets_access) - To get static data (for example, JSON files), configuration files, icons, and images.
 
 Next Topics
-- Splash screen - Light weight screen to be displayed before the application is completely loaded.
 - Take a picture - Captures camera image and saves in file.
